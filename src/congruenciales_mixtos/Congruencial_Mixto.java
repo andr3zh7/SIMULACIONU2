@@ -2,7 +2,10 @@
 package congruenciales_mixtos;
 
 import javax.swing.JOptionPane;
-
+/**
+ *
+ * @author Andres Loria
+ */
 public class Congruencial_Mixto extends javax.swing.JFrame {
 
     public Congruencial_Mixto() {
